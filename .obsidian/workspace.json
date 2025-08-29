@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Readme"
             }
+          },
+          {
+            "id": "086c46426ae726df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nikhil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nikhil"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc34ee5d1b459bef",
+  "active": "086c46426ae726df",
   "lastOpenFiles": [
-    "Untitled.md",
     "Readme.md",
+    "Nikhil.md",
+    "Untitled.md",
     "Untitled.base",
     "sdfsdfsdf.md",
     "notes"
