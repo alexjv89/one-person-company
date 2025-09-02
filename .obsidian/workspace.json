@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Categories of people to talk to.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Categories of people to talk to"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md",
+                "file": "Categories of people to talk to.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Readme"
+              "title": "Outline of Categories of people to talk to"
             }
           },
           {
@@ -182,10 +182,15 @@
   },
   "active": "cc34ee5d1b459bef",
   "lastOpenFiles": [
+    "ICPs/software creators.md",
+    "Categories of people to talk to.md",
+    "sdfsdfsdf.md",
+    "Untitled 1.md",
     "Untitled.md",
+    "ICPs/content creator.md",
+    "ICPs",
     "Readme.md",
     "Untitled.base",
-    "sdfsdfsdf.md",
     "notes"
   ]
 }
