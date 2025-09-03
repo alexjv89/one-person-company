@@ -1,0 +1,8 @@
+- active threads
+	- [[Fund raise]]
+	- [[Customer conversations]] to find the problem to solve
+	- [[Understanding and developing capabilities]]
+- upcoming thread
+	- distribution
+	- feedback loops
+	- marketing channels for one person companies

@@ -1,0 +1,8 @@
+- understanding state of art of AI tools
+	- Bench mark with existing tools
+- What problems can we solve and what problems we should not solve
+	- MCPs 
+	- Agents
+	- Chat interfaces
+- 
+- 
