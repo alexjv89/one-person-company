@@ -19,7 +19,7 @@
 	- click on pull button - get the latest update from the server
 	- select all the files with changes you want to share with others
 		- click on plus button next to the file you want to share
-		- click on the tick button
+		- click on the tick button (commit)
 	- click on push button
 	- if there is an issue - talk to alex. 
 - 
