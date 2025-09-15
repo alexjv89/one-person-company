@@ -1,0 +1,25 @@
+- We use obsidian to document stuff because
+	- notes are in plain text files(markdown)
+	- easy for AI to process - AI first workflow
+- notes are synced with team members using git
+	- why git?
+		- easies to version control
+	- individuals have a local copy of the files
+	- make changes locally
+	- sync the changes to a remote server 
+		- so that others can consume your changes
+	- 
+## Instructions to sync changes
+- overall 
+	- pull changes from remote before pushing changes to remote
+	- this minimises conflicts
+	- conflicts only happen if more than one person is working on the same exact file
+- instructions TLDR
+	- right column -> source control
+	- click on pull button - get the latest update from the server
+	- select all the files with changes you want to share with others
+		- click on plus button next to the file you want to share
+		- click on the tick button
+	- click on push button
+	- if there is an issue - talk to alex. 
+- 
