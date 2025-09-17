@@ -1,0 +1,7 @@
+- long term need, not a short term need
+	- people will ignore this
+	- more of a vitamin than a pain killer
+- manage social media
+- manage SEO 
+- manage linkedin
+- managing reviews
