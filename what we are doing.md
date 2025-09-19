@@ -1,0 +1,65 @@
+Whats the problem to choose? 
+- Thread around solo founders
+	- 0 - 1 Million - main focus 
+		- Revenue 
+		- Overheads - outsourced
+		- 
+	- Why? 
+		- personal taste? 
+		- this is a new market that is created by AI
+		- Time is limited
+			- So I want to deal with less people. 
+		- More and more work done by AI 
+		- Single person company can become a billion dollar company
+- What is the method to choose the problem to solve? 
+	- Is Nikhil clear about this?
+	- how will you be clear? 
+	- methodology is based on 
+		- case studies that you are exposed to. 
+			- Darwinbox - lived experience - First 
+			- Clay - 3rd party observations. from outside you are looking at clay
+		- be a fast follower in different geography
+			- pick the one that most exites us
+			- unfair advantage
+			- 
+	- What activity will make this clear?
+	- possible themes
+		- replacing junior staff
+		- fast following
+		- low margin high quality saas products
+			- R&D is cheap now
+			- product like Darwinbox with some professional service
+				- there is still time to make money from product
+				- then shift to services. 
+				- timing game - 
+				- all saas companies will loose their margins - 90% to 30-40%
+				- if we are playing this game, our systems needs to be build for 30% margin
+		- Agency model
+			- take accoutabilty
+			- take ownership for outcome
+			- automate internally
+		- FDE 
+			- 
+	- criteria for evaluation
+		- Are we pushing tech boundaries or are we pushing product/customer experience boundaries
+		- Are we trying to solve an ephemeral problem
+			- problem exists only for 3 yrs and we have to time our exit
+		- solved by tech
+		- towards fast following
+			- vs breaking ground
+		- what problems can be solved by AI 
+			- now vs future - can be solved now
+			- fully by AI vs supervised by humans-
+		- frequency of task
+			- has to be a daily or weekly problem
+		- is this the top 3 KRI of the persona
+		- The solution should be 10 times better than existing solution
+			- e.g. replace junior developer with claude code
+		- is this an opportunity to provide 
+			- great data, - 3 points 
+			- great domain expertise - 2 point or 
+			- great software 1 point
+	- What kind of problems to solve
+		- 
+- Deadlines 
+- 
