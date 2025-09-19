@@ -1,0 +1,16 @@
+Whats the problem to choose? 
+- Thread around solo founders
+	- 0 - 1 Million - main focus 
+		- Revenue 
+		- Overheads - outsourced
+		- 
+	- Why? 
+		- personal taste? 
+		- this is a new market that is created by AI
+		- Time is limited
+			- So I want to deal with less people. 
+		- More and more work done by AI 
+		- Single person company can become a billion dollar company
+- [[Choose a problem]]
+- Deadlines 
+- 
