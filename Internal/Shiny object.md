@@ -4,3 +4,9 @@ For a person who is observed to have shiny object syndrome, starting something n
 
 The right advice at this stage might be to continue doing what I was doing and dont start something new. 
 
+Maybe complete the following before starting something new
+- AI subsystem for Vimana
+- FinOpsBricks
+- Highlyreco
+
+How many months will it take to complete these?
