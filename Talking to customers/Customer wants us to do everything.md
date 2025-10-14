@@ -1,0 +1,11 @@
+- Early stage customers, sometimes even customers with 10Cr turnover 
+- Does not differentiate between CA work and book keeping
+- Sometimes the CA deploys their own staff at Customer location
+- Customer thinks
+	- Accounting
+	- GST
+	- TDS
+	- Tax filing
+	- Financial planning
+	- compliance 
+	- are all something that the CA needs to do

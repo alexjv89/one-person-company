@@ -1,0 +1,14 @@
+Thing of this like a CA on chat - maybe whatsapp. 
+- using the data tools we feed in information
+- What are the typical questions that you ask from your CA 
+	- is the GST filing done
+	- What is the value? 
+	- did everything go well with TDS? 
+	- How much money did we pay with TDS?
+	- Can you share an MIS for investor reporting? 
+	- What was our budget vs utilisation for this month? 
+- All these questions can be answered by the tool if the data tool is fed
+	- all basic operation task status
+	- basic filing details - date, values, etc 
+- These are things that the CA does not have time for. 
+- This should be done via whatsapp chat. 

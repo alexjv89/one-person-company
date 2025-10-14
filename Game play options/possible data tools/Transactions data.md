@@ -1,0 +1,17 @@
+- value prop - what is in it for the CA firm/
+	- a place to store Transactions data outside of the maker process
+	- Ability to independantly verify transactions filing
+	- A place to share with customer/stakeholders about the status of TAX 
+	- MIS comparing related to cashflow
+	- Quick access to data in case of audit
+- What is in it for us
+	- Data
+	- Trust
+- Product - how it works 
+	- User uploads bank statements
+	- The tool processes the data and fully destructures it 
+	- converts it to the most meaningful format
+	- presents it to the customer
+- What it actually does - technical
+	- MCP server for TDS data
+	- API server for TDS data

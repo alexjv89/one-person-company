@@ -1,0 +1,6 @@
+- Overall
+	- [[maximise data in our systems]]
+- [[narrow task at large volumes]]
+- [[something free to maximise data and something sales led to maximise revenue]]
+- [[build for the checker process]]
+- [[switching cost]]

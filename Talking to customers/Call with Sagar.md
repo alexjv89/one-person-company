@@ -1,0 +1,4 @@
+- [[Routine vs Incidental]]
+- [[Not able to find skilled labor]]
+- [[Customer wants us to do everything]]
+- 

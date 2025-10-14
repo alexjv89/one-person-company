@@ -1,0 +1,9 @@
+- the point of the data tools is to give the customer reasonable incentive to share the data with us
+- Data tools become
+	- source of truth for checker process
+	- source of truth for MIS - maybe - we win if this is true
+	- source of truth for AI/MCP - to ask questions - from a strategic finance perspective
+- For us
+	- it helps us get data - [[maximise data in our systems]]
+	- it helps us gain trust - makes it easier to sell high value products later
+- 

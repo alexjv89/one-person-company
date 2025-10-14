@@ -1,0 +1,4 @@
+- Defined as cost of switching from one system/tool to another
+- Maker process - has most switching cost
+- Checker process - has lesser switching cost
+- 

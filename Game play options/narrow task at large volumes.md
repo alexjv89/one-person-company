@@ -1,0 +1,22 @@
+- Do one kind of task at extremely large volumes
+	- this increases our margins
+	- it helps us hire and retain talent
+		- less switching cost for developers
+		- address more corner cases
+	- model is similar to stripe/razorpay
+- e.g.
+	- collect payments - 3rd party example
+	- possible internal examples
+		- categorize and label transactions
+		- study the ledger and flag issues
+- for this the ideal ICP is
+	- [[Accounting firms]]
+- why other ICPs dont work
+	- Early stage founders - needs us to do too many things, we will not get narrow task at large volumes
+	- Series B finance teams
+		- possible needs to be visited
+		- We still will have to deal with customer asking us to do multiple tasks
+			- Not as severe as early stage founders,
+			- there is still volume
+		- We have to deal with tasks that are unique to that company. 
+		- this should be attempted after we solve the problem for accounting firms - opinion

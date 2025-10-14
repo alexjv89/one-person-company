@@ -1,0 +1,20 @@
+- Maker process vs Checker process
+	- Maker process
+		- Tool to file GST
+		- Tool to file TDS
+	- Checker process
+		- Tool to verify that GST is filed correctly
+		- Tool to verify that TDS is filed correctly
+- Maker process is to do the task
+- Checker process is to find flaws in the maker process
+- Ideally Maker process and the Checker process should be done by different people
+	- its like software engineer vs penetration tester
+	- Maker is biased, Maker has blind spots. 
+	- Checker's incentive is to find faults. 
+	- Maker's incentive is to execute the process
+- In finance, people pay attention to maker/checker function
+- A tool that tries to do maker & checker functions has mis matched incentives
+- One entry point for us could be to build for Checker process
+- Advantages
+	- Checker process gives us access to data - [[maximise data in our systems]]
+	- Checker process - customers are more filling to switch/experiment

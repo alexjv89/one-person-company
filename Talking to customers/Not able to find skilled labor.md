@@ -1,0 +1,4 @@
+- Sagar claims that its hard to find skilled labor
+- Nothing below 15-20k 
+- Most times he himself has to intervein
+- Labor doing the work - there are mistakes or gaps

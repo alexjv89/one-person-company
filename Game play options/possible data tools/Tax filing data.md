@@ -1,0 +1,17 @@
+- value prop - what is in it for the CA firm/
+	- a place to store Tax data outside of the maker process
+	- Ability to independantly verify TAx filing
+	- A place to share with customer/stakeholders about the status of TAX 
+	- MIS comparing tax across multiple years as per filing
+	- Quick access to data in case of audit
+- What is in it for us
+	- Data
+	- Trust
+- Product - how it works 
+	- User uploads ITR filing report 
+	- The tool processes the data and fully destructures it 
+	- converts it to the most meaningful format
+	- presents it to the customer
+- What it actually does - technical
+	- MCP server for Tax data
+	- API server for Tax data

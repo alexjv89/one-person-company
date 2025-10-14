@@ -1,0 +1,16 @@
+- value prop - what is in it for the CA firm/
+	- a place to store GST data outside of the maker process
+	- Ability to independantly verify GST filing
+	- A place to share with customer/stakeholders about the status of GST 
+	- Quick access to data in case of audit
+- What is in it for us
+	- Data
+	- Trust
+- Product - how it works 
+	- User uploads GST filing report - GSTR1, GSRT2A, GSTR3B
+	- The tool processes the data and fully destructures it 
+	- converts it to the most meaningful format
+	- presents it to the customer
+- What it actually does - technical
+	- MCP server for GST data
+	- API server for GST data

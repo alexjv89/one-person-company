@@ -1,0 +1,13 @@
+- We need data to survive/thrive
+- Build something that makes data flow through our systems - [[maximise data in our systems]]
+- This can be given to customers as no cost or no margin
+- This helps us with 2 things
+	- data to solve problems
+	- customer trust
+- We could then build something else that can help us maximise revenue
+- Examples of things that would give us access to data
+	- Products in the Checker process - [[build for the checker process]]
+		- [[Transactions data]]
+		- [[GST filing data]]
+		- [[Tax filing data]]
+		- [[TDS filing data]]
