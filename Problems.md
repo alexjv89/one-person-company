@@ -77,7 +77,32 @@ if users were able to ask questions to their data, no matter where they reside, 
 
 # Unique insights
 
-## features as products
+## High COGs in Data acquisition
+- Data is the bottleneck
+- Banks will never encourage API data fetch. They will drag their feet as much as possible. 
+	- one they have incentives to keep the data in their eco system. 
+	- two they have a valid reason to tell users why they dont do it - data security. 
+		- old people will get scammed. 
+		- bank needs to be extra safe etc. 
+- Integrating with various banks across the world is what really slows down finance products
+- this results in high COGs and high maintaince costs. 
+- this is why most personal finance software fails.
+- why are you still doing your personal finance in excel? 
+
+## Most finance products does too many things
+- it gets overwhelming to fast 
+- what people really want is 
+	- simplicity. 
+	- one tool does one thing
+	- familiarity - products should not change very often. products should not morph into something else
+	- flexibility - I should be able to put a few blocks together to customise my money system. I should be able to rearrange the blocks as my needs change. 
+
+anti example
+- ind money - started of simple. Now it does too many things
+- quickbooks - too many features
+- sap - too many features
+- ynab - too many features 
+## build features as products. build a company around a feature. 
 
 everyone's perspective is finance is complex. No founder wants to touch quickbooks. They are scared that they will break something. No founder wants to give quickbooks access to 30 people in their team. They are scared their system of record will get spoiled. 
 
